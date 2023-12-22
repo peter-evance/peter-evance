@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm <a href="https://github.com/peter-evance"> Peter Evance!</a></h2>
 
-<h3 align="center"> Animal Scientist || Data-Analysist || Software Engineer.</h3>
+<h3 align="center"> Animal Scientist || Web Developer</h3>
 
 ### 🙋‍♂️Little More About Me:
 <p align="justify">
