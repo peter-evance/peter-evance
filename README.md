@@ -7,7 +7,7 @@
 I'm a certified software engineer with a strong foundation in animal science. Passionate about coding for precision livestock agriculture projects, I strive to merge my expertise in both fields. I am a continuous learner, always seeking new challenges to evolve as a Full Stack Developer. When not immersed in code, I actively contribute as an online volunteer, known for exceptional teamwork. Let's connect and chat about technology, agriculture, or anything in between! 🌐💻🐄
 </p>
 
-- 🌱 Currently honing my skills as a Full Stack Software Engineer. Cedits --> @ [ALX](https://www.alxafrica.com/).
+- 🌱 Currently honing my skills as a Full Stack Software Engineer. Credits --> @ [ALX](https://www.alxafrica.com/).
 
 - 📧 Reach me at **peterevance1@gmail.com**
 
