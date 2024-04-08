@@ -7,7 +7,7 @@ const Main = () => {
   return (
     <div id="main">
       <img
-        className="sm: object-contain object-center h-screen w-full h-screen object-cover object-left scale-x-[-1]"
+        className="sm: object-contain object-center h-screen scale-[1] lg: w-full h-screen object-cover object-left scale-x-[-1]"
         src={backgroundImage}
         alt="Background img"
       />
